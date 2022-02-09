@@ -4,7 +4,7 @@ Staying Connected is a research project aims to develop a technology enhanced AI
 
 ### Datasets
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are no public data sets yet
 
 ### Publications
 
