@@ -1,2 +1,2 @@
 # Staying Connected
-Your AI Partner for Healthcare a
+Your AI Partner for Healthcare
