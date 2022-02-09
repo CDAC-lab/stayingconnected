@@ -1,2 +1,2 @@
-# stayingconnected
-Github pages website for the staying connected project 2
+# Staying Connected
+Your AI Partner for Healthcare
